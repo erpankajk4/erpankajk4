@@ -1,6 +1,6 @@
 <p align=center>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Pankaj <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="40px"></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="35px">Hi, I am Pankaj <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35px"></h1>
 
 <h3 align="center">A passionate MERN Stack Web Developer</h3>
 Experienced professional with 4 years in Healthcare business and Health consulting. Proficient in Customer Service, Networking, Relationship Building, and Problem-Solving. Actively advancing as a MERN stack Full Stack Web Developer, merging analytical skills and business acumen with evolving tech proficiency. Aiming for a fluid shift into the IT sector to leverage skills in driving innovation and impactful change. 
