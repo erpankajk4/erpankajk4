@@ -5,7 +5,7 @@
 <h3 align="center">A passionate MERN Stack Web Developer</h3>
 Experienced professional with 4 years in Healthcare business and Health consulting. Proficient in Customer Service, Networking, Relationship Building, and Problem-Solving. Actively advancing as a MERN stack Full Stack Web Developer, merging analytical skills and business acumen with evolving tech proficiency. Aiming for a fluid shift into the IT sector to leverage skills in driving innovation and impactful change. 
 
-<h2 dir="auto"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30px"> About Me:</h2>
+<h2 dir="auto"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20px"> About Me:</h2>
 
 
 <img align="right" height="200px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
@@ -22,8 +22,7 @@ Experienced professional with 4 years in Healthcare business and Health consulti
 
 </br>
 
-<h3 align="left">🛠 Language and tools</h3>
-<br clear="both">
+<h2 dir="auto"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px"> Language and tools:</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="4" />
