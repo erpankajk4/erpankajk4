@@ -18,7 +18,7 @@ Experienced professional with 4 years in Healthcare business and Health consulti
  
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1sOaN4fOAVfkwfIUOC3mdJzlBC5olWypZ/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/12zTc6KWKm70vBEc3Z8NTAEICFhAoxcbk/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
