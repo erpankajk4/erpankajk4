@@ -14,7 +14,7 @@ Experienced professional with 4 years in Healthcare business and Health consulti
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👩‍💻</g-emoji> Open to work.</p> 
 
-- <p dir="auto">🔭 I’m currently working on <code>MovieHub Backend</code>
+- <p dir="auto">🔭 I’m currently doing internship in <code>SpriteGenix</code>
  
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
