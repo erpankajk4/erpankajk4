@@ -1,9 +1,9 @@
 <p align=center>
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="35px">  Hi, I am Pankaj  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35px"></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="35px">  Namaskaram, I am Pankaj  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35px"></h1>
 
-<h3 align="center">A passionate MERN Stack Web Developer</h3>
-Experienced professional with 4 years in Healthcare business and Health consulting. Proficient in Customer Service, Networking, Relationship Building, and Problem-Solving. Actively advancing as a MERN stack Full Stack Web Developer, merging analytical skills and business acumen with evolving tech proficiency. Aiming for a fluid shift into the IT sector to leverage skills in driving innovation and impactful change. 
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+Detail-oriented professional with 1+ year in web design & development and 4 years in healthcare and consulting. Skilled in customer service, networking, and problem-solving. Proficient in MERN Stack and Next.js as a Full Stack Web Developer, combining analytical skills, business acumen, and evolving tech expertise.
 
 <h2 dir="auto"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20px"> About Me:</h2>
 
@@ -16,7 +16,7 @@ Experienced professional with 4 years in Healthcare business and Health consulti
 
 - 🔭 I’m currently working in <a href="https://elpixala.in/" target="_blank">elpixala</a>
  
-- <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
+- <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I always try to explore new technologies.</p>
 
 - <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1--WoYK1GdnEYiYs3I4HGxKtJL8MnK_73/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
