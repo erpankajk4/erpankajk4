@@ -13,8 +13,6 @@ Detail-oriented professional with 1+ year in web design & development and 4 year
 - 🙋 All about me is in <strong><a href="https://portfolio-next-js-beta-eosin.vercel.app/" target="_blank" rel="nofollow">My Portfolio</a></strong>
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👩‍💻</g-emoji> Open to work.</p> 
-
-- 🔭 I’m currently working in <a href="https://elpixala.in/" target="_blank">elpixala</a>
  
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I always try to explore new technologies.</p>
 
