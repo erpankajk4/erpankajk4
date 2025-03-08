@@ -10,13 +10,13 @@ Detail-oriented professional with 2+ year in web design & development. Proficien
 
 <img align="right" height="200px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
-- 🙋 All about me is in <strong><a href="#" target="_blank" rel="nofollow">My Portfolio</a></strong>
+- 🙋 All about me is in <strong><a href="https://portfolio-theta-ashen-15.vercel.app/" target="_blank" rel="nofollow">My Portfolio</a></strong>
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👩‍💻</g-emoji> Open to work.</p> 
  
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I always try to explore new technologies.</p>
 
-- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1--WoYK1GdnEYiYs3I4HGxKtJL8MnK_73/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1RfZTMKeRyHF0Awi1mqBGfl7WXobTQ2FP/view" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
